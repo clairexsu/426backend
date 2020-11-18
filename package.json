@@ -1,0 +1,26 @@
+{
+  "name": "426backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clairexsu/426backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clairexsu/426backend/issues"
+  },
+  "homepage": "https://github.com/clairexsu/426backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "data-store": "^4.0.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}

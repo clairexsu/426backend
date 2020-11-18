@@ -1,0 +1,23 @@
+{
+  "0": {
+    "id": 0,
+    "username": "username",
+    "password": "password"
+  },
+  "cxsu": {
+    "id": 1,
+    "password": "password"
+  },
+  "claire": {
+    "username": "claire",
+    "password": "password"
+  },
+  "crowe": {
+    "username": "crowe",
+    "password": "password"
+  },
+  "cookie": {
+    "username": "cookie",
+    "password": "monster"
+  }
+}
